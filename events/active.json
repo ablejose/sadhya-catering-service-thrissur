@@ -1,0 +1,28 @@
+{
+  "slug": "sadhya-catering-service-thrissur",
+  "name": "Sadhya Catering Service",
+  "shortName": "Sadhya",
+  "descriptor": "Catering Services",
+  "address": "Manjilamkunn, Kolaparamba, Pandikkad, Keralam 676522",
+  "area": "Pandikkad",
+  "city": "Thrissur",
+  "district": "Malappuram",
+  "region": "Kerala",
+  "postalCode": "676522",
+  "geo": {
+    "lat": 11.094436,
+    "lng": 76.2584844
+  },
+  "mapsLink": "https://maps.google.com/?cid=12035707983424109931",
+  "phone": "+91 81569 21761",
+  "whatsapp": "918156921761",
+  "rating": 4,
+  "reviewCount": 6,
+  "reviews": [],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp"
+  ],
+  "url": "https://sadhya-catering-service-thrissur.vercel.app"
+}
